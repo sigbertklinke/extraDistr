@@ -28,7 +28,7 @@ Description: Density, distribution function, quantile function
     generalized Pareto, Gumbel, half-Cauchy, half-normal, half-t,
     Huber density, inverse chi-squared, inverse-gamma, Kumaraswamy,
     Laplace, location-scale t, logarithmic, Lomax, multivariate
-    hypergeometric, multinomial, negative hypergeometric,
+    hypergeometric, multinomial, Nakagami, negative hypergeometric,
     non-standard beta, normal mixture, Poisson mixture, Pareto,
     power, reparametrized beta, Rayleigh, shifted Gompertz, Skellam,
     slash, triangular, truncated binomial, truncated normal,
