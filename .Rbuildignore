@@ -17,5 +17,7 @@ extraDistr.Rproj
 .git/
 .github/
 ..Rcheck/
-^.*\.o$
+.*\.o$
+.*\.so$
 ^CRAN-SUBMISSION$
+^\.github$

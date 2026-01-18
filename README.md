@@ -13,3 +13,7 @@ for values beyond function support 0's are returned
 negative values in functions with non-negative support).
 
 All the functions vectorized and coded in C++11 using [Rcpp](https://www.rcpp.org/).
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/sigbertklinke/extraDistr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/sigbertklinke/extraDistr/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
