@@ -1,4 +1,8 @@
-### 1.10.1
+### 1.10.0.2
+
+* Maintanance overtake by Sigbert Klinke, changes in DESCRIPTION, README.md, and NEWS.md.
+
+### 1.10.0.1
 
 * Changes in DESCRIPTION as required by CRAN.
 

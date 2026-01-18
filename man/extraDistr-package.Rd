@@ -28,8 +28,16 @@ All the functions vectorized and coded in C++ using \pkg{Rcpp}.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/twolodzko/extraDistr}
-  \item Report bugs at \url{https://github.com/twolodzko/extraDistr/issues}
+  \item \url{https://github.com/sigbertklinke/extraDistr}
+}
+
+}
+\author{
+\strong{Maintainer}: Sigbert Klinke \email{sigbert@wiwi.hu-berlin.de}
+
+Authors:
+\itemize{
+  \item Tymoteusz Wolodzko \email{twolodzko+extradistr@gmail.com}
 }
 
 }
