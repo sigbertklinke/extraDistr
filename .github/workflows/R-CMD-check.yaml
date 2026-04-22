@@ -42,7 +42,15 @@ jobs:
 
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          extra-packages: any::rcmdcheck, any::testthat
+          extra-packages: |
+            any::rcmdcheck
+            any::testthat
+            any::LaplacesDemon
+            any::VGAM
+            any::evd
+            any::skellam
+            any::triangle
+            any::actuar
           needs: check
 
       - uses: r-lib/actions/check-r-package@v2
