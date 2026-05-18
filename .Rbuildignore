@@ -21,3 +21,5 @@ extraDistr.Rproj
 .*\.so$
 ^CRAN-SUBMISSION$
 ^\.github$
+^\.positai$
+^\.claude$
